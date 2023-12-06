@@ -1,6 +1,6 @@
 # google-play-reviews-collector
 How to use
-1. Change "myDocument.Tables(1).Style = ", table style name. Depends on language of the Word application. English version "Table Grid"
+1. Change "myDocument.Tables(1).Style = ", table style name in CutAndPasteToTable.bas file. It depends on language of the Word application. English version "Table Grid"
 2. Import CutAndPasteToTable.bas script into your Word application with name "CutAndPasteToTable".
 3. Run the script, it will generate a folder "Reviews" on your Desktop
 4. Get .html file from your application administrator account on Google Play.
